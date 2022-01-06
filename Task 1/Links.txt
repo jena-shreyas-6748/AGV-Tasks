@@ -1,0 +1,11 @@
+Links:
+1.  https://cs.stackexchange.com/questions/16065/how-does-an-admissible-heuristic-ensure-an-optimal-solution#:~:text=When%20using%20A*%20(or%20any,path's%20length%20(or%20moves).
+2.  https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+3.  https://www.geeksforgeeks.org/a-search-algorithm/
+4.  http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+5.  https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb
+
+Youtube:
+1.  GateSmashers : https://www.youtube.com/watch?v=tvAh0JZF2YE
+2.  John Levine : https://www.youtube.com/watch?v=6TsL96NAZCo
+
