@@ -6,4 +6,5 @@ There were a total of 5 tasks, and I managed to complete 3 of them - Tasks 1, 3 
 A detailed explanation of each task is provided in the README files for the respective tasks.
 
 Please feel free to suggest any suitable modifications or alternative approaches by which these tasks could be attempted.
+
 Hope you like it :)
